@@ -1,0 +1,10 @@
+{
+  "label": "Lanzarote",
+  "latitude": 29.05,
+  "longitude": -13.59,
+  "timezone": "Atlantic/Canary",
+  "mode": "dark",
+  "autosave": "off",
+  "img_directory": "images",
+  "step": 60
+}

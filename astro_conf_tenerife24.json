@@ -1,0 +1,10 @@
+{
+  "label": "Tenerife",
+  "latitude": 28.29,
+  "longitude": -16.62,
+  "timezone": "Atlantic/Canary",
+  "mode": "dark",
+  "autosave": "off",
+  "img_directory": "images",
+  "step": 60
+}

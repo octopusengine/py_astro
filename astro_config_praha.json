@@ -1,0 +1,11 @@
+{
+  "label": "Praha",
+  "latitude": 50.0878114,
+  "longitude": 14.4204598,
+  "elevation": 191.103485,
+  "datetime": "2026-07-23T20:33:00",
+  "mode": "dark",
+  "autosave": "off",
+  "img_directory": "images",
+  "step": 60
+}

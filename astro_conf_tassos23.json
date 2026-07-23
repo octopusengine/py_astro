@@ -1,0 +1,10 @@
+{
+  "label": "Thassos",
+  "latitude": 40.776,
+  "longitude": 24.709,
+  "timezone": "Europe/Athens",
+  "mode": "dark",
+  "autosave": "off",
+  "img_directory": "images",
+  "step": 60
+}

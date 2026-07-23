@@ -1,0 +1,12 @@
+{
+  "label": "Menorka",
+  "latitude": 39.9496,
+  "longitude": 4.1103,
+  "elevation": 100,
+  "datetime": "2026-08-12T20:30:00",
+  "timezone": "Europe/Madrid",
+  "mode": "dark",
+  "autosave": "off",
+  "img_directory": "images",
+  "step": 60
+}

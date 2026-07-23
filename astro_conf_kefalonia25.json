@@ -1,0 +1,10 @@
+{
+  "label": "Kefalonia",
+  "latitude": 38.2,
+  "longitude": 20.6,
+  "datetime_temp": "2026-07-23T20:33:00",
+  "mode": "dark",
+  "autosave": "off",
+  "img_directory": "images",
+  "step": 30
+}
